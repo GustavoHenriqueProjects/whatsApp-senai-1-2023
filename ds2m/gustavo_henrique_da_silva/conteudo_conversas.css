@@ -146,7 +146,7 @@
 .conteudo_imagem {
     display: flex;
     flex-direction: column;
-    background-image: url(../imagens_aplicativo/background_Paper.jpg);
+    background-image: url(./imagens_aplicativo/background_Paper.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

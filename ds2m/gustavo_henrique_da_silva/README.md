@@ -31,6 +31,9 @@ Site do WhatsApp. O objetivo deste projeto é colocar em prática os conheciment
 ## Equipe
 - [Gustavo Henrique](https://github.com/fernandoleonid/whatsApp-senai-1-2023/tree/main/ds2m/gustavo_henrique_da_silva)
 
+## Lighthouse
+![Screenshot](./imagens_aplicativo/Screenshot3.png)
+
 # Critérios de Avaliação
 - [x] `Codificou o app conforme o original?`
 - [ ] Nomeou as classes CSS utilizando o padrão BEM?

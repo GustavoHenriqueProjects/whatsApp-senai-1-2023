@@ -26,6 +26,8 @@ const criarNovaLista = (contato) => {
   const img = document.createElement('img')
   //Adicionando uma classe para a imagem
   img.classList.add('img_usuario')
+  img.alt = 'Foto de perfil'
+
   //Pagando as sequencia das imagens no JSON
   img.src = `./imagens_aplicativo/${contato.image}`
 
